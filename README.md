@@ -26,5 +26,5 @@ Checkout my Live Dashboard published over here: <a href="https://public.tableau.
 
 ### Glimpse of my Dashboard:
 <p align="center">
-  <img width="100%" src="Data Jobs.png" />
+  <img width="100%" src="Data jobs.png" />
 </p>
